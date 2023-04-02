@@ -1,10 +1,11 @@
 title: Tim Wong # your name (or website title) here
 logo: "/images/profile_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
   <br><br>
-  Second description 
-  <br><br>
+  Business Analyst with 5+ years of commercial experience in data analytics, cost management, procurement and contract administration.
+#  <br><br>
+#  Second description
+#  <br><br>
 #  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
